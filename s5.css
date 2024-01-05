@@ -1,0 +1,13 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #bef6e6;
+    color: #c989ca;
+    line-height: 1.6;
+    margin: 0;
+    font-size: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;
+}
